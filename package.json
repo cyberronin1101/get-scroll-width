@@ -1,0 +1,25 @@
+{
+  "name": "get-scroll-width",
+  "version": "1.0.0",
+  "description": "get scrollBar width",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberronin1101/get-scroll-width.git"
+  },
+  "keywords": [
+    "plugin",
+    "scrollBar",
+    "width",
+    "scroll"
+  ],
+  "author": "cyberronin1101",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyberronin1101/get-scroll-width/issues"
+  },
+  "homepage": "https://github.com/cyberronin1101/get-scroll-width#readme"
+}
